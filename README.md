@@ -37,10 +37,10 @@ By completing this course, you will:
 
 |Time     |Activity                         |Link                                                                             |
 |---------|---------------------------------|---------------------------------------------------------------------------------|
-|2 pm - 2.30 pm  | Course outline and practical info                                 |[Slides](slides/course-outline-and-practical-info.pdf)                         |
-|2.30 pm - 4 pm  | Introduction to Multi-Omics data integration via Machine Learning |[Slides](slides/MachineLearningOmicsIntegration_Oskolkov.pdf)                  |
-|4.30 pm - 6 pm  | Feature selection                                                 |[Hands-on](practicals/OmicsIntegration_FeatureSelection.html)                  |
-|6.30 pm - 8 pm  | Supervised Omics integration                                      |[Hands-on](practicals/supervised_omics_integr_CLL.html)                        |
+|2 pm - 2.30 pm  | Course outline and practical info                                               |[Slides](slides/course-outline-and-practical-info.pdf)                         |
+|2.30 pm - 4 pm  | Introduction to Multi-Omics data integration via Machine Learning: key concepts |[Slides](slides/MachineLearningOmicsIntegration_Oskolkov.pdf)                  |
+|4.30 pm - 6 pm  | Feature selection: univariate vs. multivariate (LASSO, PLS) feature selection   |[Hands-on](practicals/OmicsIntegration_FeatureSelection.html)                  |
+|6.30 pm - 8 pm  | Supervised Omics integration: mixOmics and DIABLO                               |[Hands-on](practicals/supervised_omics_integr_CLL.html)                        |
 
 ## Day 2 - 2 pm - 8 pm Berlin time
 
