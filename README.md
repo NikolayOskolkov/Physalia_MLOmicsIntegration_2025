@@ -7,7 +7,7 @@
 - Dr. Nikolay Oskolkov, Lund University, NBIS SciLifeLab
 
 ## Course Overview
-Next-Generation Sequencing (NGS) technologies have given rise to vast amounts of biological and biomedical Big Data. The rapidly growing volume and diversity of data present unique opportunities as well as significant challenges for analysis. Biological Big Data from different sources (Multi-Omics data) are a promising resource due to their synergistic effects, which can potentially model the behavior of biological cells. Omics integration can thus identify novel biological pathways that may not be distinguishable from individual Omics datasets alone. In this course, through a mix of lectures and hands-on sessions, we will cover machine learning methodologies for integrating large amounts of biological data.
+Next-Generation Sequencing (NGS) technologies have led to the generation of vast amounts of biological and biomedical Big Data. The rapidly expanding volume and diversity of this data present both exciting opportunities and considerable challenges for analysis. Biological Big Data from various sources, often referred to as Multi-Omics data, hold great promise due to their synergistic effects, which can potentially model the behavior of biological cells. By integrating Omics data, we can uncover novel biological pathways that may not be detectable in individual Omics datasets alone. In this course, we will explore machine learning methods for integrating large biological datasets, combining both lectures and hands-on sessions.
 
 ## Target Audience and Assumed Background
 We assume some basic awareness of UNIX environment, as well as at least beginner level of R and / or Python programming.
