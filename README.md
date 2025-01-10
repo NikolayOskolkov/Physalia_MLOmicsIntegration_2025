@@ -31,7 +31,7 @@ By completing this course, you will:
 |--------|-------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ~ 1 h  | Recorded talk: __Omics Logic Symposium 2022__                                                                                 | [Video](https://www.youtube.com/watch?v=Jrz6t3fbOCw)                                            |
 | ~ 2 h  | Primer article: __Predicting type 2 diabetes via machine learning integration of multiple omics from human pancreatic islets__| [PDF](articles/Multi_Omics_T2D_ScientificReports2024.pdf)                                       |
-| ~ 1 h  | In case needed: __Recap on Unix__                                                                                             | [Hands-on](command-line-basics.md)                                                              |
+| ~ 1 h  | In case needed: __Recap on Unix__                                                                                             | [Code](command-line-basics.md)                                                                  |
 | ~ 1 h  | Useful reading: __Select features or Omics integration__                                                                      | [Blog](https://towardsdatascience.com/select-features-for-omics-integration-511390b7e7fd)       |
 
 
@@ -43,8 +43,8 @@ By completing this course, you will:
 | 2pm - 2.30pm  | Course outline and practical info                                                          | [Slides](slides/course-outline-and-practical-info.pdf)                         |
 | 2.30pm - 4pm  | Introduction to Multi-Omics biological data integration via Machine Learning: key concepts | [Slides](slides/MachineLearningOmicsIntegration_Oskolkov.pdf)                  |
 | 2.30pm - 4pm  | Feature selection and supervised Omics integration                                         | [Slides](slides/SupervisedOmicsIntegration_Oskolkov.pdf)                       |
-| 4.30pm - 6pm  | Methods for feature selection: univariate vs. multivariate (LASSO, PLS) feature selection  | [Hands-on](practicals/OmicsIntegration_FeatureSelection.html)                  |
-| 6.30pm - 8pm  | Methods for supervised Omics integration: mixOmics and DIABLO                              | [Hands-on](practicals/supervised_omics_integr_CLL.html)                        |
+| 4.30pm - 6pm  | Methods for feature selection: univariate vs. multivariate (LASSO, PLS) feature selection  | [Code](practicals/OmicsIntegration_FeatureSelection.html)                      |
+| 6.30pm - 8pm  | Methods for supervised Omics integration: mixOmics and DIABLO                              | [Code](practicals/supervised_omics_integr_CLL.html)                            |
 
 ## Day 2 - 2 pm - 8 pm Berlin time
 
