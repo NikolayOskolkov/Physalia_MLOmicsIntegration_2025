@@ -27,11 +27,14 @@ By completing this course, you will:
 
 ## Before the course
 
-|Time   |Activity                                                           |Link                                                                                                                    |
-|-------|-------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
-|~ 1 h  | Recorded talk: __Omics Logic Symposium 2022__                                                                                 | [Video](https://www.youtube.com/watch?v=Jrz6t3fbOCw)       |
-|~ 2 h  | Primer article: __Predicting type 2 diabetes via machine learning integration of multiple omics from human pancreatic islets__| [PDF](articles/Multi_Omics_T2D_ScientificReports2024.pdf)  |
-|~ 1 h  | In case needed: __Recap on Unix__                                                                                             | [Hands-on](command-line-basics.md)                         |
+| Time   | Activity                                                          | Link                                                                                                                                                        |
+|--------|-------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ~ 1 h  | Recorded talk: __Omics Logic Symposium 2022__                                                                                 | [Video](https://www.youtube.com/watch?v=Jrz6t3fbOCw)                                            |
+| ~ 2 h  | Primer article: __Predicting type 2 diabetes via machine learning integration of multiple omics from human pancreatic islets__| [PDF](articles/Multi_Omics_T2D_ScientificReports2024.pdf)                                       |
+| ~ 1 h  | In case needed: __Recap on Unix__                                                                                             | [Hands-on](command-line-basics.md)                                                              |
+| ~ 1 h  | Useful reading: __Select features or Omics integration__                                                                      | [Blog post](https://towardsdatascience.com/select-features-for-omics-integration-511390b7e7fd)  |
+
+
 
 ## Day 1 - 2 pm - 8 pm Berlin time
 
