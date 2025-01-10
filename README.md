@@ -1,18 +1,18 @@
 ![](course_logo.jpg)
 
-### MACHINE LEARNING FOR MULTI-OMICS INTEGRATION
+# Machine Learning for Multi-Omics Integration
 
-### INSTRUCTOR
+## Instructor
 
 - Dr. Nikolay Oskolkov, Lund University, NBIS SciLifeLab
 
-### COURSE OVERVIEW
+## Course Overview
 Next-Generation Sequencing (NGS) technologies have given rise to vast amounts of biological and biomedical Big Data. The rapidly growing volume and diversity of data present unique opportunities as well as significant challenges for analysis. Biological Big Data from different sources (Multi-Omics data) are a promising resource due to their synergistic effects, which can potentially model the behavior of biological cells. Omics integration can thus identify novel biological pathways that may not be distinguishable from individual Omics datasets alone. In this course, through a mix of lectures and hands-on sessions, we will cover machine learning methodologies for integrating large amounts of biological data.
 
-### TARGET AUDIENCE AND ASSUMED BACKGROUND
+## Target Audience and Assumed Background
 We assume some basic awareness of UNIX environment, as well as at least beginner level of R and / or Python programming.
 
-### LEARNING OUTCOMES
+## Learning Outcomes
 By completing this course, you will:
 
 - Understand the basics of machine learning approaches to biological data analysis
