@@ -29,11 +29,11 @@ By completing this course, you will:
 
 |Time   |Activity                                                           |Link                                                |
 |-------|-------------------------------------------------------------------|----------------------------------------------------|
-|~ 1.5 h|Lecture: __Reconstructing genomes from metagenomes: key concepts__ |[Video](https://www.youtube.com/watch?v=RjNdHGK4ruo)|
+|~ 1 h|Recorded talk: __Omics Logic Symposium 2022__ |[Video](https://www.youtube.com/watch?v=Jrz6t3fbOCw)|
 |~ 2 h  |Review article: __Shotgun metagenomics, from sampling to analysis__|[PDF](Articles/nbt.3935.pdf)                        |
 |~ 1 h  |In case needed: __Recap on Unix__                                  |[Hands-on](command-line-basics.md)                  |
 
-## Monday - 9 am -1 pm Berlin time
+## Day 1 - 2 pm - 8 pm Berlin time
 
 |Time     |Activity                         |Link                                                                             |
 |---------|---------------------------------|---------------------------------------------------------------------------------|
@@ -42,7 +42,7 @@ By completing this course, you will:
 |Afternoon|Setting up the cloud computing   |[Hands-on](exercises.md#setting-up-the-cloud-computing)                          |
 |Afternoon|Getting the raw data             |[Hands-on](exercises.md#getting-the-raw-data)                                    |
 
-## Tuesday - 9 am -1 pm Berlin time
+## Day 2 - 2 pm - 8 pm Berlin time
 
 |Time     |Activity                       |Link                                                                                                           |
 |---------|-------------------------------|---------------------------------------------------------------------------------------------------------------|
@@ -50,7 +50,7 @@ By completing this course, you will:
 |Morning  |QC and trimming                |[Slides](Lectures/QC-and-trimming.pdf) / [Hands-on](exercises.md#qc-and-trimming)                              |
 |Afternoon|Read-based taxonomic profiling |[Slides](Lectures/read-based-taxonomic-profiling.pdf) / [Hands-on](exercises.md#read-based-taxonomic-profiling)|
 
-## Wednesday - 9 am -1 pm Berlin time
+## Day 3 - 2 pm - 8 pm Berlin time
 
 |Time     |Activity|Link|
 |---------|--------|----|
