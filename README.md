@@ -30,7 +30,7 @@ By completing this course, you will:
 |Time   |Activity                                                           |Link                                                |
 |-------|-------------------------------------------------------------------|----------------------------------------------------|
 |~ 1 h|Recorded talk: __Omics Logic Symposium 2022__ |[Video](https://www.youtube.com/watch?v=Jrz6t3fbOCw)|
-|~ 2 h  |Primer article: __Shotgun metagenomics, from sampling to analysis__|[PDF](articles/Multi_Omics_T2D_ScientificReports2024.pdf)                        |
+|~ 2 h  |Primer article: __Predicting type 2 diabetes via machine learning integration of multiple omics from humanpancreatic islets__|[PDF](articles/Multi_Omics_T2D_ScientificReports2024.pdf)                        |
 |~ 1 h  |In case needed: __Recap on Unix__                                  |[Hands-on](command-line-basics.md)                  |
 
 ## Day 1 - 2 pm - 8 pm Berlin time
