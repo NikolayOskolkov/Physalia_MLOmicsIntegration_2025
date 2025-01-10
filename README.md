@@ -35,12 +35,13 @@ By completing this course, you will:
 
 ## Day 1 - 2 pm - 8 pm Berlin time
 
-|Time     |Activity                         |Link                                                                                                                                            |
-|---------|---------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
-|2pm - 2.30pm  | Course outline and practical info                                                          | [Slides](slides/course-outline-and-practical-info.pdf)                         |
-|2.30pm - 4pm  | Introduction to Multi-Omics biological data integration via Machine Learning: key concepts | [Slides](slides/MachineLearningOmicsIntegration_Oskolkov.pdf)                  |
-|4.30pm - 6pm  | Feature selection: univariate vs. multivariate (LASSO, PLS) feature selection              | [Hands-on](practicals/OmicsIntegration_FeatureSelection.html)                  |
-|6.30pm - 8pm  | Supervised Omics integration: mixOmics and DIABLO                                          | [Hands-on](practicals/supervised_omics_integr_CLL.html)                        |
+| Time          | Activity                                                                                   | Link                                                                           |
+|---------------|--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| 2pm - 2.30pm  | Course outline and practical info                                                          | [Slides](slides/course-outline-and-practical-info.pdf)                         |
+| 2.30pm - 4pm  | Introduction to Multi-Omics biological data integration via Machine Learning: key concepts | [Slides](slides/MachineLearningOmicsIntegration_Oskolkov.pdf)                  |
+| 2.30pm - 4pm  | Feature selection and supervised Omics integration                                         | [Slides](slides/SupervisedOmicsIntegration_Oskolkov.pdf)                       |
+| 4.30pm - 6pm  | Methods for feature selection: univariate vs. multivariate (LASSO, PLS) feature selection  | [Hands-on](practicals/OmicsIntegration_FeatureSelection.html)                  |
+| 6.30pm - 8pm  | Methods for supervised Omics integration: mixOmics and DIABLO                              | [Hands-on](practicals/supervised_omics_integr_CLL.html)                        |
 
 ## Day 2 - 2 pm - 8 pm Berlin time
 
