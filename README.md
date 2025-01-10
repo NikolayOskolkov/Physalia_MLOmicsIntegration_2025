@@ -27,20 +27,20 @@ By completing this course, you will:
 
 ## Before the course
 
-|Time   |Activity                                                           |Link                                                |
-|-------|-------------------------------------------------------------------|----------------------------------------------------|
-|~ 1 h|Recorded talk: __Omics Logic Symposium 2022__ |[Video](https://www.youtube.com/watch?v=Jrz6t3fbOCw)|
-|~ 2 h  |Primer article: __Predicting type 2 diabetes via machine learning integration of multiple omics from humanpancreatic islets__|[PDF](articles/Multi_Omics_T2D_ScientificReports2024.pdf)                        |
-|~ 1 h  |In case needed: __Recap on Unix__                                  |[Hands-on](command-line-basics.md)                  |
+|Time   |Activity                                                           |Link                                                                                                                   |
+|-------|-------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+|~ 1 h  | Recorded talk: __Omics Logic Symposium 2022__                                                                                | [Video](https://www.youtube.com/watch?v=Jrz6t3fbOCw)       |
+|~ 2 h  | Primer article: __Predicting type 2 diabetes via machine learning integration of multiple omics from humanpancreatic islets__| [PDF](articles/Multi_Omics_T2D_ScientificReports2024.pdf)  |
+|~ 1 h  | In case needed: __Recap on Unix__                                                                                            | [Hands-on](command-line-basics.md)                         |
 
 ## Day 1 - 2 pm - 8 pm Berlin time
 
-|Time     |Activity                         |Link                                                                             |
-|---------|---------------------------------|---------------------------------------------------------------------------------|
-|2 pm - 2.30 pm  | Course outline and practical info                                               |[Slides](slides/course-outline-and-practical-info.pdf)                         |
-|2.30 pm - 4 pm  | Introduction to Multi-Omics data integration via Machine Learning: key concepts |[Slides](slides/MachineLearningOmicsIntegration_Oskolkov.pdf)                  |
-|4.30 pm - 6 pm  | Feature selection: univariate vs. multivariate (LASSO, PLS) feature selection   |[Hands-on](practicals/OmicsIntegration_FeatureSelection.html)                  |
-|6.30 pm - 8 pm  | Supervised Omics integration: mixOmics and DIABLO                               |[Hands-on](practicals/supervised_omics_integr_CLL.html)                        |
+|Time     |Activity                         |Link                                                                                                                                              |
+|---------|---------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+|2 pm - 2.30 pm  | Course outline and practical info                                                          | [Slides](slides/course-outline-and-practical-info.pdf)                         |
+|2.30 pm - 4 pm  | Introduction to Multi-Omics biological data integration via Machine Learning: key concepts | [Slides](slides/MachineLearningOmicsIntegration_Oskolkov.pdf)                  |
+|4.30 pm - 6 pm  | Feature selection: univariate vs. multivariate (LASSO, PLS) feature selection              | [Hands-on](practicals/OmicsIntegration_FeatureSelection.html)                  |
+|6.30 pm - 8 pm  | Supervised Omics integration: mixOmics and DIABLO                                          | [Hands-on](practicals/supervised_omics_integr_CLL.html)                        |
 
 ## Day 2 - 2 pm - 8 pm Berlin time
 
