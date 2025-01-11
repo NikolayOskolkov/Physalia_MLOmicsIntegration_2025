@@ -48,17 +48,23 @@ By completing this course, you will:
 | 16.00 - 16.15  | Break                                                                                      |                                                                                |
 | 16.15 - 17.15  | Feature selection and supervised Omics integration                                         | [Slides](slides/SupervisedOmicsIntegration_Oskolkov.pdf)                       |
 | 17.15 - 17.30  | Break                                                                                      |                                                                                |
-| 17.30 - 18.30  | Methods for feature selection: univariate vs. multivariate feature selection               | [Code](practicals/OmicsIntegration_FeatureSelection.html)                      |
+| 17.30 - 18.30  | Methods for univariate vs. multivariate feature selection: LASSO, PLS, LDA                 | [Code](practicals/OmicsIntegration_FeatureSelection.html)                      |
 | 18.30 - 18.45  | Break                                                                                      |                                                                                |
 | 18.45 - 20.00  | Methods for supervised Omics integration: mixOmics and DIABLO                              | [Code](practicals/supervised_omics_integr_CLL.html)                            |
 
+
 ## Day 2: 2 pm - 8 pm Berlin time
 
-|Time     |Activity                       |Link                                                                                                           |
-|---------|-------------------------------|---------------------------------------------------------------------------------------------------------------|
-|Morning  |Questions from the previous day|[Flinga](https://flinga.fi/s/FFQ5876)                                                                          |
-|Morning  |QC and trimming                |[Slides](Lectures/QC-and-trimming.pdf) / [Hands-on](exercises.md#qc-and-trimming)                              |
-|Afternoon|Read-based taxonomic profiling |[Slides](Lectures/read-based-taxonomic-profiling.pdf) / [Hands-on](exercises.md#read-based-taxonomic-profiling)|
+| Time           | Activity                                                                                   | Link                                                                           |
+|----------------|--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| 14.00 - 15.00  | Unsupervised Omics integration                                                             | [Slides](slides/UnsupervisedOmicsIntegration_Oskolkov.pdf)                     |
+| 15.00 - 15.15  | Break                                                                                      |                                                                                |
+| 15.15 - 16.45  | Methods for unsupervised Omics integration: MOFA                                           | [Code](practicals/UnsupervisedOMICsIntegration_MOFA2.html)                     |
+| 16.45 - 17.00  | Break                                                                                      |                                                                                |
+| 17.00 - 18.00  | Neural networks and Deep Learning for Omics integration                                    | [Slides](slides/DeepLearningOmicsIntegration_Oskolkov.pdf)                     |
+| 18.00 - 18.15  | Break                                                                                      |                                                                                |
+| 18.15 - 20.00  | Methods for Omics integration via neural networks: Autoencoder                             | [Code](practicals/DeepLearningDataIntegration.html)                            |
+
 
 ## Day 3: 2 pm - 8 pm Berlin time
 
