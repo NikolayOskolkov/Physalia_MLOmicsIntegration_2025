@@ -57,11 +57,11 @@ By completing this course, you will:
 
 | Time           | Activity                                                                                   | Link                                                                           |
 |----------------|--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
-| 14.00 - 15.00  | Unsupervised Omics integration                                                             | [Slides](slides/UnsupervisedOmicsIntegration_Oskolkov.pdf)                     |
+| 14.00 - 15.00  | Unsupervised Omics integration: methods overview                                           | [Slides](slides/UnsupervisedOmicsIntegration_Oskolkov.pdf)                     |
 | 15.00 - 15.15  | Break                                                                                      |                                                                                |
 | 15.15 - 16.45  | Methods for unsupervised Omics integration: MOFA                                           | [Code](practicals/UnsupervisedOMICsIntegration_MOFA2.html)                     |
 | 16.45 - 17.00  | Break                                                                                      |                                                                                |
-| 17.00 - 18.00  | Neural networks and Deep Learning for Omics integration                                    | [Slides](slides/DeepLearningOmicsIntegration_Oskolkov.pdf)                     |
+| 17.00 - 18.00  | Applications of Neural networks and Deep Learning to Omics integration                     | [Slides](slides/DeepLearningOmicsIntegration_Oskolkov.pdf)                     |
 | 18.00 - 18.15  | Break                                                                                      |                                                                                |
 | 18.15 - 20.00  | Methods for Omics integration via neural networks: Autoencoder                             | [Lab](practicals/DeepLearningDataIntegration.html)                             |
 
