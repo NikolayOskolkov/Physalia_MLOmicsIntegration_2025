@@ -33,6 +33,8 @@ By completing this course, you will:
 | ~ 2 h  | Primer article: __Predicting type 2 diabetes via machine learning integration of multiple omics from human pancreatic islets__| [PDF](articles/Multi_Omics_T2D_ScientificReports2024.pdf)                                       |
 | ~ 1 h  | In case needed: __Recap on Unix__                                                                                             | [Code](command-line-basics.md)                                                                  |
 | ~ 1 h  | Useful reading: __Select features or Omics integration__                                                                      | [Blog](https://towardsdatascience.com/select-features-for-omics-integration-511390b7e7fd)       |
+| ~ 1 h  | Useful reading: __Supervised Omics integration__                                                                              | [Blog](https://towardsdatascience.com/supervised-omics-integration-2158e1a6d23f)                |
+| ~ 1 h  | Useful reading: __Unsupervised Omics integration__                                                                              | [Blog](https://towardsdatascience.com/unsupervised-omics-integration-688bf8fa49bf)            |
 
 
 
