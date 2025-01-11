@@ -55,15 +55,15 @@ By completing this course, you will:
 
 ## Day 2: 2 pm - 8 pm Berlin time
 
-| Time           | Activity                                                                                   | Link                                                                           |
-|----------------|--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
-| 14.00 - 15.00  | Unsupervised Omics integration: factor analysis and graph intersect                        | [Slides](slides/UnsupervisedOmicsIntegration_Oskolkov.pdf)                     |
-| 15.00 - 15.15  | Break                                                                                      |                                                                                |
-| 15.15 - 16.45  | Methods for unsupervised Omics integration: MOFA                                           | [Code](practicals/UnsupervisedOMICsIntegration_MOFA2.html)                     |
-| 16.45 - 17.00  | Break                                                                                      |                                                                                |
-| 17.00 - 18.00  | Applications of Neural networks and Deep Learning to biological data integration           | [Slides](slides/DeepLearningOmicsIntegration_Oskolkov.pdf)                     |
-| 18.00 - 18.15  | Break                                                                                      |                                                                                |
-| 18.15 - 20.00  | Methods for Omics integration via neural networks: Autoencoder                             | [Lab](practicals/DeepLearningDataIntegration.html)                             |
+| Time           | Activity                                                                                    | Link                                                                           |
+|----------------|---------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| 14.00 - 15.00  | Unsupervised Omics integration: factor analysis and graph intersection                      | [Slides](slides/UnsupervisedOmicsIntegration_Oskolkov.pdf)                     |
+| 15.00 - 15.15  | Break                                                                                       |                                                                                |
+| 15.15 - 16.45  | Methods for unsupervised Omics integration: MOFA1 and MOFA2                                 | [Code](practicals/UnsupervisedOMICsIntegration_MOFA2.html)                     |
+| 16.45 - 17.00  | Break                                                                                       |                                                                                |
+| 17.00 - 18.00  | Applications of artificial neural networks and Deep Learning to biological data integration | [Slides](slides/DeepLearningOmicsIntegration_Oskolkov.pdf)                     |
+| 18.00 - 18.15  | Break                                                                                       |                                                                                |
+| 18.15 - 20.00  | Methods for Omics integration via neural networks: Autoencoder                              | [Lab](practicals/DeepLearningDataIntegration.html)                             |
 
 
 ## Day 3: 2 pm - 8 pm Berlin time
