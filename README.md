@@ -41,7 +41,7 @@ By completing this course, you will:
 | Time          | Activity                                                                                   | Link                                                                           |
 |---------------|--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
 | 2pm - 2.30pm  | Course outline and practical info                                                          | [Slides](slides/course-outline-and-practical-info.pdf)                         |
-| 2.30pm - 4pm  | Introduction to Multi-Omics biological data integration via Machine Learning: key concepts | [Slides](slides/MachineLearningOmicsIntegration_Oskolkov.pdf)                  |
+| 2.30pm - 4pm  | Introduction to Multi-Omics biological data integration via Machine Learning               | [Slides](slides/MachineLearningOmicsIntegration_Oskolkov.pdf)                  |
 | 2.30pm - 4pm  | Feature selection and supervised Omics integration                                         | [Slides](slides/SupervisedOmicsIntegration_Oskolkov.pdf)                       |
 | 4.30pm - 6pm  | Methods for feature selection: univariate vs. multivariate (LASSO, PLS) feature selection  | [Code](practicals/OmicsIntegration_FeatureSelection.html)                      |
 | 6.30pm - 8pm  | Methods for supervised Omics integration: mixOmics and DIABLO                              | [Code](practicals/supervised_omics_integr_CLL.html)                            |
