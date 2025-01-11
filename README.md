@@ -44,13 +44,13 @@ By completing this course, you will:
 |----------------|--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
 | 14.00 - 14.45  | Course outline and practical info                                                          | [Slides](slides/course-outline-and-practical-info.pdf)                         |
 | 14.45 - 15.00  | Break                                                                                      |                                                                                |
-| 15.00 - 16.00  | Introduction to Multi-Omics biological data integration via Machine Learning               | [Slides](slides/MachineLearningOmicsIntegration_Oskolkov.pdf)                  |
+| 15.00 - 16.00  | Introduction to Multi-Omics data integration via Machine Learning                          | [Slides](slides/MachineLearningOmicsIntegration_Oskolkov.pdf)                  |
 | 16.00 - 16.15  | Break                                                                                      |                                                                                |
 | 16.15 - 17.15  | Feature selection and supervised Omics integration                                         | [Slides](slides/SupervisedOmicsIntegration_Oskolkov.pdf)                       |
 | 17.15 - 17.30  | Break                                                                                      |                                                                                |
-| 17.30 - 18.30  | Methods for univariate vs. multivariate feature selection: LASSO, PLS, LDA                 | [Lab](practicals/OmicsIntegration_FeatureSelection.html)                      |
+| 17.30 - 18.30  | Methods for univariate vs. multivariate feature selection: LASSO, PLS, LDA                 | [Lab](practicals/OmicsIntegration_FeatureSelection.html)                       |
 | 18.30 - 18.45  | Break                                                                                      |                                                                                |
-| 18.45 - 20.00  | Methods for supervised Omics integration: mixOmics and DIABLO                              | [Lab](practicals/supervised_omics_integr_CLL.html)                            |
+| 18.45 - 20.00  | Methods for supervised Omics integration: mixOmics and DIABLO                              | [Lab](practicals/supervised_omics_integr_CLL.html)                             |
 
 
 ## Day 2: 2 pm - 8 pm Berlin time
@@ -61,23 +61,23 @@ By completing this course, you will:
 | 15.00 - 15.15  | Break                                                                                      |                                                                                |
 | 15.15 - 16.45  | Methods for unsupervised Omics integration: MOFA                                           | [Code](practicals/UnsupervisedOMICsIntegration_MOFA2.html)                     |
 | 16.45 - 17.00  | Break                                                                                      |                                                                                |
-| 17.00 - 18.00  | Neural networks and Deep Learning for Omics integration                                    | [Lab](slides/DeepLearningOmicsIntegration_Oskolkov.pdf)                     |
+| 17.00 - 18.00  | Neural networks and Deep Learning for Omics integration                                    | [Slides](slides/DeepLearningOmicsIntegration_Oskolkov.pdf)                     |
 | 18.00 - 18.15  | Break                                                                                      |                                                                                |
-| 18.15 - 20.00  | Methods for Omics integration via neural networks: Autoencoder                             | [Lab](practicals/DeepLearningDataIntegration.html)                            |
+| 18.15 - 20.00  | Methods for Omics integration via neural networks: Autoencoder                             | [Lab](practicals/DeepLearningDataIntegration.html)                             |
 
 
 ## Day 3: 2 pm - 8 pm Berlin time
 
 | Time           | Activity                                                                                   | Link                                                                           |
 |----------------|--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
-| 14.00 - 15.00  | Dimension reduction and UMAP for Omics integration                                         | [Slides](slides/DimensionReduction_Oskolkov.pdf)                               |
+| 14.00 - 15.00  | Dimensionality reduction and UMAP for single cell Omics integration                        | [Slides](slides/DimensionReduction_Oskolkov.pdf)                               |
 | 15.00 - 15.15  | Break                                                                                      |                                                                                |
-| 15.15 - 15.45  | Methods for dimension reduction: PCA, tSNE, UMAP                                           | [Lab](practicals/OmicsIntegration_DimensionReduction.html)                    |
-| 15.45 - 16.45  | Application of UMAP to Omics integration                                                   | [Lab](practicals/UMAP_DataIntegration.html)                                   |
+| 15.15 - 15.45  | Methods for dimension reduction: PCA, tSNE, UMAP                                           | [Lab](practicals/OmicsIntegration_DimensionReduction.html)                     |
+| 15.45 - 16.45  | Application of UMAP to single cell Omics integration                                       | [Lab](practicals/UMAP_DataIntegration.html)                                    |
 | 16.45 - 17.00  | Break                                                                                      |                                                                                |
-| 17.00 - 18.00  | Omics integration and batch correction for single cell data                                | [Slides](slides/Single_Cell_Integration_Oskolkov.pdf)                     |
+| 17.00 - 18.00  | Omics integration and batch correction for single cell data                                | [Slides](slides/Single_Cell_Integration_Oskolkov.pdf)                          |
 | 18.00 - 18.15  | Break                                                                                      |                                                                                |
-| 18.15 - 19.30  | Methods for Omics integration for single cell: CCA, WNN                                    | [Lab](practicals/SingleCell_OmicsIntegration.html)                            |
+| 18.15 - 19.30  | Methods for Omics integration for single cell: Seurat CCA + DTW, WNN                       | [Lab](practicals/SingleCell_OmicsIntegration.html)                             |
 | 19.30 - 20.00  | Questions an discussion                                                                    |                                                                                |
 
 
