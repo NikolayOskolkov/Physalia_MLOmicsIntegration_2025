@@ -68,11 +68,16 @@ By completing this course, you will:
 
 ## Day 3: 2 pm - 8 pm Berlin time
 
-|Time     |Activity|Link|
-|---------|--------|----|
-|Morning  |Questions from the previous day||
-|Morning  |Metagenome assembly            |[Slides](Lectures/Assembly-and-QC.pdf) / [Hands-on](exercises.md#metagenome-assembly)  |
-|Afternoon|Assembly & Assembly QC         |[Hands-on](exercises.md#assembly-qc)                                                   |
-|Afternoon|Long reads & long read assembly|[Slides](https://docs.google.com/presentation/d/1F8D3QLJ1gqlWYrwO6W6zxG067QOcOF5EIHfTsTcH3G0/edit?usp=sharing) / [Hands-on](exercises.md#assembling-long-reads-with-flye)                               |
+| Time           | Activity                                                                                   | Link                                                                           |
+|----------------|--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| 14.00 - 15.00  | Dimension reduction and UMAP for Omics integration                                         | [Slides](slides/DimensionReduction_Oskolkov.pdf)                               |
+| 15.00 - 15.15  | Break                                                                                      |                                                                                |
+| 15.15 - 15.45  | Methods for dimension reduction: PCA, tSNE, UMAP                                           | [Code](practicals/OmicsIntegration_DimensionReduction.html)                    |
+| 15.45 - 16.45  | Application of UMAP to Omics integration                                                   | [Code](practicals/UMAP_DataIntegration.html)                                   |
+| 16.45 - 17.00  | Break                                                                                      |                                                                                |
+| 17.00 - 18.00  | Omics integration and batch correction for single cell data                                | [Slides](slides/Single_Cell_Integration_Oskolkov.pdf)                     |
+| 18.00 - 18.15  | Break                                                                                      |                                                                                |
+| 18.15 - 19.30  | Methods for Omics integration for single cell: CCA, WNN                                    | [Code](practicals/SingleCell_OmicsIntegration.html)                            |
+| 19.30 - 20.00  | Questions an discussion                                                                    |                                                                                |
 
 
