@@ -68,16 +68,16 @@ By completing this course, you will:
 
 ## Day 3: 2 pm - 8 pm Berlin time
 
-| Time           | Activity                                                                                   | Link                                                                           |
-|----------------|--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
-| 14.00 - 15.00  | Dimensionality reduction and UMAP for single cell Omics integration                        | [Slides](slides/DimensionReduction_Oskolkov.pdf)                               |
-| 15.00 - 15.15  | Break                                                                                      |                                                                                |
-| 15.15 - 15.45  | Methods for dimension reduction: PCA, tSNE, UMAP                                           | [Lab](practicals/OmicsIntegration_DimensionReduction.html)                     |
-| 15.45 - 16.45  | Application of UMAP to single cell Omics integration                                       | [Lab](practicals/UMAP_DataIntegration.html)                                    |
-| 16.45 - 17.00  | Break                                                                                      |                                                                                |
-| 17.00 - 18.00  | Omics integration and batch correction for single cell data                                | [Slides](slides/Single_Cell_Integration_Oskolkov.pdf)                          |
-| 18.00 - 18.15  | Break                                                                                      |                                                                                |
-| 18.15 - 19.30  | Methods for Omics integration for single cell: Seurat CCA + DTW, WNN                       | [Lab](practicals/SingleCell_OmicsIntegration.html)                             |
-| 19.30 - 20.00  | Questions an discussion                                                                    |                                                                                |
+| Time           | Activity                                                                                        | Link                                                                           |
+|----------------|-------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| 14.00 - 15.00  | Dimensionality reduction and UMAP for single cell Omics integration                             | [Slides](slides/DimensionReduction_Oskolkov.pdf)                               |
+| 15.00 - 15.15  | Break                                                                                           |                                                                                |
+| 15.15 - 15.45  | Methods for dimension reduction: comparison between PCA, tSNE, UMAP                             | [Lab](practicals/OmicsIntegration_DimensionReduction.html)                     |
+| 15.45 - 16.45  | Graph intersect method and UMAP application to single cell Omics integration                    | [Lab](practicals/UMAP_DataIntegration.html)                                    |
+| 16.45 - 17.00  | Break                                                                                           |                                                                                |
+| 17.00 - 18.00  | Batch correction (across samples) and Omics integration (across features) for single cell data  | [Slides](slides/Single_Cell_Integration_Oskolkov.pdf)                          |
+| 18.00 - 18.15  | Break                                                                                           |                                                                                |
+| 18.15 - 19.30  | Methods for Omics integration for single cell: Seurat CCA + DTW, WNN                            | [Lab](practicals/SingleCell_OmicsIntegration.html)                             |
+| 19.30 - 20.00  | Questions an discussion                                                                         |                                                                                |
 
 
