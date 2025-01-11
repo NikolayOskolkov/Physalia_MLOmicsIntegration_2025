@@ -44,7 +44,7 @@ By completing this course, you will:
 |----------------|--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
 | 14.00 - 14.45  | Course outline and practical info                                                          | [Slides](slides/course-outline-and-practical-info.pdf)                         |
 | 14.45 - 15.00  | Break                                                                                      |                                                                                |
-| 15.00 - 16.00  | Introduction to Multi-Omics data integration via Machine Learning                          | [Slides](slides/MachineLearningOmicsIntegration_Oskolkov.pdf)                  |
+| 15.00 - 16.00  | Introduction to biological Multi-Omics data integration via Machine Learning: key concepts | [Slides](slides/MachineLearningOmicsIntegration_Oskolkov.pdf)                  |
 | 16.00 - 16.15  | Break                                                                                      |                                                                                |
 | 16.15 - 17.15  | Feature selection and supervised Omics integration                                         | [Slides](slides/SupervisedOmicsIntegration_Oskolkov.pdf)                       |
 | 17.15 - 17.30  | Break                                                                                      |                                                                                |
