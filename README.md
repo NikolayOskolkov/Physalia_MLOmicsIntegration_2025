@@ -42,7 +42,7 @@ By completing this course, you will:
 
 | Time           | Activity                                                                                   | Link                                                                           |
 |----------------|--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
-| 14.00 - 14.45  | Course outline and practical info                                                          | [Slides](slides/course-outline-and-practical-info.pdf)                         |
+| 14.00 - 14.45  | Course outline and practical information: introductions                                    | [Slides](slides/course-outline-and-practical-info.pdf)                         |
 | 14.45 - 15.00  | Break                                                                                      |                                                                                |
 | 15.00 - 16.00  | Introduction to biological Multi-Omics data integration via Machine Learning: key concepts | [Slides](slides/MachineLearningOmicsIntegration_Oskolkov.pdf)                  |
 | 16.00 - 16.15  | Break                                                                                      |                                                                                |
