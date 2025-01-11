@@ -36,17 +36,21 @@ By completing this course, you will:
 
 
 
-## Day 1 - 2 pm - 8 pm Berlin time
+## Day 1: 2 pm - 8 pm Berlin time
 
-| Time          | Activity                                                                                   | Link                                                                           |
-|---------------|--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
-| 2pm - 2.30pm  | Course outline and practical info                                                          | [Slides](slides/course-outline-and-practical-info.pdf)                         |
-| 2.30pm - 4pm  | Introduction to Multi-Omics biological data integration via Machine Learning               | [Slides](slides/MachineLearningOmicsIntegration_Oskolkov.pdf)                  |
-| 2.30pm - 4pm  | Feature selection and supervised Omics integration                                         | [Slides](slides/SupervisedOmicsIntegration_Oskolkov.pdf)                       |
-| 4.30pm - 6pm  | Methods for feature selection: univariate vs. multivariate (LASSO, PLS) feature selection  | [Code](practicals/OmicsIntegration_FeatureSelection.html)                      |
-| 6.30pm - 8pm  | Methods for supervised Omics integration: mixOmics and DIABLO                              | [Code](practicals/supervised_omics_integr_CLL.html)                            |
+| Time           | Activity                                                                                   | Link                                                                           |
+|----------------|--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| 14.00 - 14.45  | Course outline and practical info                                                          | [Slides](slides/course-outline-and-practical-info.pdf)                         |
+| 14.45 - 15.00  | Break                                                                                      |                                                                                |
+| 15.00 - 16.00  | Introduction to Multi-Omics biological data integration via Machine Learning               | [Slides](slides/MachineLearningOmicsIntegration_Oskolkov.pdf)                  |
+| 16.00 - 16.15  | Break                                                                                      |                                                                                |
+| 16.15 - 17.00  | Feature selection and supervised Omics integration                                         | [Slides](slides/SupervisedOmicsIntegration_Oskolkov.pdf)                       |
+| 17.00 - 17.15  | Break                                                                                      |                                                                                |
+| 17.15 - 18.30  | Methods for feature selection: univariate vs. multivariate (LASSO, PLS) feature selection  | [Code](practicals/OmicsIntegration_FeatureSelection.html)                      |
+| 18.30 - 18.45  | Break                                                                                      |                                                                                |
+| 18.45 - 20.00  | Methods for supervised Omics integration: mixOmics and DIABLO                              | [Code](practicals/supervised_omics_integr_CLL.html)                            |
 
-## Day 2 - 2 pm - 8 pm Berlin time
+## Day 2: 2 pm - 8 pm Berlin time
 
 |Time     |Activity                       |Link                                                                                                           |
 |---------|-------------------------------|---------------------------------------------------------------------------------------------------------------|
@@ -54,7 +58,7 @@ By completing this course, you will:
 |Morning  |QC and trimming                |[Slides](Lectures/QC-and-trimming.pdf) / [Hands-on](exercises.md#qc-and-trimming)                              |
 |Afternoon|Read-based taxonomic profiling |[Slides](Lectures/read-based-taxonomic-profiling.pdf) / [Hands-on](exercises.md#read-based-taxonomic-profiling)|
 
-## Day 3 - 2 pm - 8 pm Berlin time
+## Day 3: 2 pm - 8 pm Berlin time
 
 |Time     |Activity|Link|
 |---------|--------|----|
