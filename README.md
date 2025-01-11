@@ -44,9 +44,9 @@ By completing this course, you will:
 | 14.45 - 15.00  | Break                                                                                      |                                                                                |
 | 15.00 - 16.00  | Introduction to Multi-Omics biological data integration via Machine Learning               | [Slides](slides/MachineLearningOmicsIntegration_Oskolkov.pdf)                  |
 | 16.00 - 16.15  | Break                                                                                      |                                                                                |
-| 16.15 - 17.00  | Feature selection and supervised Omics integration                                         | [Slides](slides/SupervisedOmicsIntegration_Oskolkov.pdf)                       |
-| 17.00 - 17.15  | Break                                                                                      |                                                                                |
-| 17.15 - 18.30  | Methods for feature selection: univariate vs. multivariate feature selection               | [Code](practicals/OmicsIntegration_FeatureSelection.html)                      |
+| 16.15 - 17.15  | Feature selection and supervised Omics integration                                         | [Slides](slides/SupervisedOmicsIntegration_Oskolkov.pdf)                       |
+| 17.15 - 17.30  | Break                                                                                      |                                                                                |
+| 17.30 - 18.30  | Methods for feature selection: univariate vs. multivariate feature selection               | [Code](practicals/OmicsIntegration_FeatureSelection.html)                      |
 | 18.30 - 18.45  | Break                                                                                      |                                                                                |
 | 18.45 - 20.00  | Methods for supervised Omics integration: mixOmics and DIABLO                              | [Code](practicals/supervised_omics_integr_CLL.html)                            |
 
