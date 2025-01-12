@@ -50,7 +50,7 @@ By completing this course, you will:
 | 17.15 - 17.30  | Break                                                                                      |                                                                                |
 | 17.30 - 18.30  | Methods for univariate vs. multivariate feature selection: LASSO, PLS, LDA                 | [Lab](https://html-preview.github.io/?url=https://github.com/NikolayOskolkov/Physalia_MLOmicsIntegration_2025/blob/main/practicals/OmicsIntegration_FeatureSelection.html)                       |
 | 18.30 - 18.45  | Break                                                                                      |                                                                                |
-| 18.45 - 20.00  | Methods for supervised Omics integration: mixOmics and DIABLO                              | [Lab](practicals/supervised_omics_integr_CLL.html)                             |
+| 18.45 - 20.00  | Methods for supervised Omics integration: mixOmics and DIABLO                              | [Lab](https://html-preview.github.io/?url=https://github.com/NikolayOskolkov/Physalia_MLOmicsIntegration_2025/blob/main/practicals/supervised_omics_integr_CLL.html)                             |
 
 
 ## Day 2: 2 pm - 8 pm Berlin time
@@ -59,11 +59,11 @@ By completing this course, you will:
 |----------------|---------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
 | 14.00 - 15.00  | Unsupervised Omics integration: factor analysis and graph intersection                      | [Slides](slides/UnsupervisedOmicsIntegration_Oskolkov.pdf)                     |
 | 15.00 - 15.15  | Break                                                                                       |                                                                                |
-| 15.15 - 16.45  | Methods for unsupervised Omics integration: MOFA1 and MOFA2                                 | [Code](practicals/UnsupervisedOMICsIntegration_MOFA2.html)                     |
+| 15.15 - 16.45  | Methods for unsupervised Omics integration: MOFA1 and MOFA2                                 | [Code](https://html-preview.github.io/?url=https://github.com/NikolayOskolkov/Physalia_MLOmicsIntegration_2025/blob/main/practicals/UnsupervisedOMICsIntegration_MOFA2.html)                     |
 | 16.45 - 17.00  | Break                                                                                       |                                                                                |
 | 17.00 - 18.00  | Applications of artificial neural networks and Deep Learning to biological data integration | [Slides](slides/DeepLearningOmicsIntegration_Oskolkov.pdf)                     |
 | 18.00 - 18.15  | Break                                                                                       |                                                                                |
-| 18.15 - 20.00  | Methods for Omics integration via neural networks: Autoencoder                              | [Lab](practicals/DeepLearningDataIntegration.html)                             |
+| 18.15 - 20.00  | Methods for Omics integration via neural networks: Autoencoder                              | [Lab](https://html-preview.github.io/?url=https://github.com/NikolayOskolkov/Physalia_MLOmicsIntegration_2025/blob/main/practicals/DeepLearningDataIntegration.html)                             |
 
 
 ## Day 3: 2 pm - 8 pm Berlin time
@@ -72,12 +72,12 @@ By completing this course, you will:
 |----------------|-------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
 | 14.00 - 15.00  | Dimensionality reduction and UMAP for single cell Omics integration                             | [Slides](slides/DimensionReduction_Oskolkov.pdf)                               |
 | 15.00 - 15.15  | Break                                                                                           |                                                                                |
-| 15.15 - 15.45  | Methods for dimension reduction: comparison between PCA, tSNE, UMAP                             | [Lab](practicals/OmicsIntegration_DimensionReduction.html)                     |
-| 15.45 - 16.45  | Graph intersection method and UMAP application to single cell Omics integration                 | [Lab](practicals/UMAP_DataIntegration.html)                                    |
+| 15.15 - 15.45  | Methods for dimension reduction: comparison between PCA, tSNE, UMAP                             | [Lab](https://html-preview.github.io/?url=https://github.com/NikolayOskolkov/Physalia_MLOmicsIntegration_2025/blob/main/practicals/OmicsIntegration_DimensionReduction.html)                     |
+| 15.45 - 16.45  | Graph intersection method and UMAP application to single cell Omics integration                 | [Lab](https://html-preview.github.io/?url=https://github.com/NikolayOskolkov/Physalia_MLOmicsIntegration_2025/blob/main/practicals/UMAP_DataIntegration.html)                                    |
 | 16.45 - 17.00  | Break                                                                                           |                                                                                |
 | 17.00 - 18.00  | Batch correction (across samples) and Omics integration (across features) for single cell data  | [Slides](slides/Single_Cell_Integration_Oskolkov.pdf)                          |
 | 18.00 - 18.15  | Break                                                                                           |                                                                                |
-| 18.15 - 19.30  | Methods for Omics integration for single cell data: Seurat CCA + DTW, WNN                       | [Lab](practicals/SingleCell_OmicsIntegration.html)                             |
+| 18.15 - 19.30  | Methods for Omics integration for single cell data: Seurat CCA + DTW, WNN                       | [Lab](https://html-preview.github.io/?url=https://github.com/NikolayOskolkov/Physalia_MLOmicsIntegration_2025/blob/main/practicals/SingleCell_OmicsIntegration.html)                             |
 | 19.30 - 20.00  | Questions an discussion                                                                         |                                                                                |
 
 
