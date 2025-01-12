@@ -48,7 +48,7 @@ By completing this course, you will:
 | 16.00 - 16.15  | Break                                                                                      |                                                                                |
 | 16.15 - 17.15  | Feature selection and supervised Omics integration                                         | [Slides](slides/SupervisedOmicsIntegration_Oskolkov.pdf)                       |
 | 17.15 - 17.30  | Break                                                                                      |                                                                                |
-| 17.30 - 18.30  | Methods for univariate vs. multivariate feature selection: LASSO, PLS, LDA                 | [Lab](practicals/OmicsIntegration_FeatureSelection.html)                       |
+| 17.30 - 18.30  | Methods for univariate vs. multivariate feature selection: LASSO, PLS, LDA                 | [Lab](https://html-preview.github.io/?url=https://github.com/NikolayOskolkov/Physalia_MLOmicsIntegration_2025/blob/main/practicals/OmicsIntegration_FeatureSelection.html)                       |
 | 18.30 - 18.45  | Break                                                                                      |                                                                                |
 | 18.45 - 20.00  | Methods for supervised Omics integration: mixOmics and DIABLO                              | [Lab](practicals/supervised_omics_integr_CLL.html)                             |
 
