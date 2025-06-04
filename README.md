@@ -42,13 +42,13 @@ By completing this course, you will:
 
 ## Day 1: 2 pm - 8 pm Berlin time
 
-| Time           | Activity                                                                                   | Link                                                                                                                                    |
-|----------------|--------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
-| 14.00 - 14.45  | Course outline and practical information: introductions                                    | [Slides](https://github.com/NikolayOskolkov/Physalia_MLOmicsIntegration_2025/raw/main/slides/course-outline-and-practical-info.pdf)     |
+| Time           | Activity                                                                                   | Link                                                                                                                                        |
+|----------------|--------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| 14.00 - 14.45  | Course outline and practical information: introductions                                    | [Slides](https://github.com/NikolayOskolkov/Physalia_MLOmicsIntegration_2025/raw/main/slides/course-outline-and-practical-info.pdf)         |
 | 14.45 - 15.00  | Break                                                                                      |                                                                                |
-| 15.00 - 16.00  | Introduction to biological Multi-Omics data integration via Machine Learning: key concepts | [Slides](slides/MachineLearningOmicsIntegration_Oskolkov.pdf)                  |
+| 15.00 - 16.00  | Introduction to biological Multi-Omics data integration via Machine Learning: key concepts | [Slides](https://github.com/NikolayOskolkov/Physalia_MLOmicsIntegration_2025/raw/main/slides/MachineLearningOmicsIntegration_Oskolkov.pdf)  |
 | 16.00 - 16.15  | Break                                                                                      |                                                                                |
-| 16.15 - 17.15  | Feature selection and supervised Omics integration                                         | [Slides](slides/SupervisedOmicsIntegration_Oskolkov.pdf)                       |
+| 16.15 - 17.15  | Feature selection and supervised Omics integration                                         | [Slides](https://github.com/NikolayOskolkov/Physalia_MLOmicsIntegration_2025/raw/main/slides/SupervisedOmicsIntegration_Oskolkov.pdf)       |
 | 17.15 - 17.30  | Break                                                                                      |                                                                                |
 | 17.30 - 18.30  | Methods for univariate vs. multivariate feature selection: LASSO, PLS, LDA                 | [Lab](https://html-preview.github.io/?url=https://github.com/NikolayOskolkov/Physalia_MLOmicsIntegration_2025/blob/main/practicals/OmicsIntegration_FeatureSelection.html)                       |
 | 18.30 - 18.45  | Break                                                                                      |                                                                                |
