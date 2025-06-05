@@ -75,7 +75,7 @@ activity.matrix[1:5,1:5]
 
 #Seurat object setup
 pbmc.atac <- CreateSeuratObject(counts = peaks, assay = "ATAC", project = "10x_ATAC")
-pbmc.atac@assays$ATAC@counts[1:5,1:5]
+pbmc.atac@assays$ATAC$counts[1:5,1:5]
 pbmc.atac[["ACTIVITY"]] <- CreateAssayObject(counts = activity.matrix)
 pbmc.atac
 
@@ -108,6 +108,7 @@ pbmc.atac <- RunTSNE(pbmc.atac, reduction = "lsi", dims = 2:30)
 pbmc.rna <- readRDS("pbmc_10k_v3.rds")
 dim(pbmc.rna@assays$RNA@counts)
 pbmc.rna@assays$RNA@counts[1:5,1:5]
+pbmc.rna<-UpdateSeuratObject(pbmc.rna)
 pbmc.rna$tech <- "rna"
 
 #Plotting scATACseq and scRNAseq next to each other
@@ -205,11 +206,11 @@ bm <- LoadData(ds = "bmcite")
 The gene expression and protein abundance matrices can be accesed as follows:
 
 ```{r}
-bm@assays$RNA[1:5,1:5]
-dim(bm@assays$RNA)
+bm@assays$RNA$counts[1:5,1:5]
+dim(bm@assays$RNA$counts)
 
-bm@assays$ADT[1:5,1:5]
-dim(bm@assays$ADT)
+bm@assays$ADT$counts[1:5,1:5]
+dim(bm@assays$ADT$counts)
 ```
 
 Next we will perform data pre-processing, normalization and dimension reduction on each modality independently. For scRNAseq we will use library size normalization followed by log-transform, while total sum scaling (TSS) normalization across cells followed by the CLR normalization is recommended by Seurat for ADT data (as they can be viewed as compositional data after TSS procedure):
